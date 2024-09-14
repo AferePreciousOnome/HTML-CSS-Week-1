@@ -122,6 +122,14 @@ button {
   bottom: 6rem;
   border-radius: 4px;
 }
+button:hover {
+  color: var(--orange-dark);
+  background-color: var(--white);
+}
+.btnVolunteer:hover {
+  color: var(--white);
+  background-color: var(--orange-dark);
+}
 
 /* INSERT BUTTON STYLES HERE */
 
